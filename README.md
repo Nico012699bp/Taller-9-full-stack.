@@ -11,6 +11,11 @@
 
 <a href="https://www.figma.com/file/cC2dw33TpQrjyxtfEJtU6z/Nicol%C3%A1s-Barbosa-Pardo---Figma-Exercise?type=design&node-id=0%3A1&mode=design&t=cQSgBOZyaeP7YgCW-1" target="_blank">Link de Figma</a>
 <h2>Punto 2: HTML</h2>
+<img src="./public/images/HTML.png" alt="html">
+<h2>Punto 3: CSS </h2>
+<img src="./public/images/css.png" alt="css">
+<h2>Punto 4: </h2>
+<img src="./public/images/punto-4.png" alt="punto 4">
 
 
 
