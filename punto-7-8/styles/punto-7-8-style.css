@@ -1,0 +1,25 @@
+nav {
+    background-color: palevioletred;
+    width: 600px;
+}
+
+li{
+    height: 30px;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li:hover{
+    background-color: blue;
+}

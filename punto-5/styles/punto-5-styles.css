@@ -1,0 +1,17 @@
+.verde{
+
+color: green;
+}
+.rojo{
+    color: red;
+}
+.negro{
+    text-decoration: overline underline;
+    
+}
+.tamaño{
+    font-size: 60px;
+}
+.azul{
+    color: blue;
+}
